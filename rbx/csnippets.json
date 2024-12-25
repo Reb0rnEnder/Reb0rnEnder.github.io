@@ -1,7 +1,6 @@
 {
-  "SnippetSRCID": "csnippets.json :ender:",
   "Snippets": [
-    {"Name": "charged test", "Source": "print(\"hello!\")"},
-    {"Name": "??? hub", "Source": "print(\"testing\")"}
+    {"Name": "Hello World! (print)", "Source": "print(\"Hello World!\")"},
+    {"Name": "WhatsApp Car", "Source": "require(7067479876).sport(#UNAME#)"}
   ]
 }
