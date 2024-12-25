@@ -1,6 +1,6 @@
 {
   "Snippets": [
-    {"Name": "Hello World! (print)", "Source": "print(\"Hello World!\")"},
-    {"Name": "WhatsApp Car", "Source": "require(7067479876).sport(\"#UNAME#\")"}
+    {"Name": "Hello World! (print)", "Source": "print('Hello World!')"},
+    {"Name": "WhatsApp Car", "Source": "require(7067479876).sport('#UNAME#')"}
   ]
 }
