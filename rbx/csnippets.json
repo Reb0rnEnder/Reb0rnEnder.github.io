@@ -1,6 +1,7 @@
 {
   "Snippets": [
     {"Name": "Hello World! (print)", "Source": "print('Hello World!')"},
-    {"Name": "WhatsApp Car", "Source": "require(7067479876).sport('#UNAME#')"}
+    {"Name": "WhatsApp Car", "Source": "require(7067479876).sport('#UNAME#')"},
+    {"Name": "Chat Hax", "Source": "require(7973006014).hax('#UNAME#')"}
   ]
 }
