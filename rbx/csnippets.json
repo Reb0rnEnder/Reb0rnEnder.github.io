@@ -1,0 +1,7 @@
+{
+  "SnippetSRCID": "csnippets.json :ender:",
+  "Snippets": [
+    {"Name": "charged test", "Source": "print(\"hello!\")"},
+    {"Name": "??? hub", "Source": "print(\"testing\")"}
+  ]
+}
