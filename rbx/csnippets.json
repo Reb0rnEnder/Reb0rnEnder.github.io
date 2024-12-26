@@ -1,7 +1,9 @@
-{
-  "Snippets": [
-    {"Name": "Hello World! (print)", "Source": "print('Hello World!')"},
-    {"Name": "WhatsApp Car", "Source": "require(7067479876).sport('#UNAME#')"},
+[
+    {"Name": "T0P3K 5.1Z", "Source": "require(125911743908498)('#UNAME#')"},
+    {"Name": "funky car", "Source": "require(7067479876).sport('#UNAME#')"},
+    {"Name": "chathax", "Source": "require(7973006014).hax('#UNAME#')"},
+    {"Name": "HD Admin utils", "Source": "require(10592830213).HD('#UNAME#')"},
+    {"Name": "F3X", "Source": "require(2571067295).load('#UNAME#')"},
+    {"Name": "Plugbe", "Source": "require(12505310319)"},
     {"Name": "not darkop", "Source": "require(6993385343).Slient('#UNAME#')"}
-  ]
-}
+]
