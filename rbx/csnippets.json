@@ -1,6 +1,7 @@
 [
     {"Name": "T0P3K 5.1Z", "Source": "require(125911743908498)('#UNAME#')"},
     {"Name": "funky car", "Source": "require(7067479876).sport('#UNAME#')"},
+    {"Name": "chat translator", "Source": "require(71768150237042)('#UNAME#')"},
     {"Name": "chathax", "Source": "require(7973006014).hax('#UNAME#')"},
     {"Name": "cs console", "Source": "require(129839072981510)('#UNAME#')"},
     {"Name": "HD Admin utils [Disabled]", "Source": "--require(10592830213).HD('#UNAME#')"},
