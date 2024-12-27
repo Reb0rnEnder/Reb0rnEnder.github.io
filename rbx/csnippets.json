@@ -4,7 +4,7 @@
     {"Name": "chat translator", "Source": "require(71768150237042)('#UNAME#')"},
     {"Name": "chathax", "Source": "require(7973006014).hax('#UNAME#')"},
     {"Name": "cs console", "Source": "require(129839072981510)('#UNAME#')"},
-    {"Name": "HD Admin utils [Disabled]", "Source": "--require(10592830213).HD('#UNAME#')"},
-    {"Name": "F3X [Disabled]", "Source": "--require(2571067295).load('#UNAME#')"},
-    {"Name": "not darkop [Disabled]", "Source": "--require(6993385343).Slient('#UNAME#')"}
+    {"Name": "HD Admin utils [Disabled]", "Source": "require(10592830213).HD('#UNAME#')"},
+    {"Name": "F3X [Disabled]", "Source": "require(2571067295).load('#UNAME#')"},
+    {"Name": "not darkop [Disabled]", "Source": "require(6993385343).Slient('#UNAME#')"}
 ]
